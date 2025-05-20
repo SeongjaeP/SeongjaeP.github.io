@@ -7,3 +7,21 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+/* 본문 텍스트 크기 줄이기 */
+body {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* 제목 크기 줄이기 */
+h1 {
+  font-size: 1.8rem;
+}
+h2 {
+  font-size: 1.4rem;
+}
+h3 {
+  font-size: 1.2rem;
+}
