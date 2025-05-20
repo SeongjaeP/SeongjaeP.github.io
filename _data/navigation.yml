@@ -10,3 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Compiler"
+    url: /categories/compiler/
+  - title: "CUDA"
+    url: /categories/cuda/
+  - title: "AI"
+    url: /categories/AI/
+  - title: "CS"
+    url: /categories/CS/
